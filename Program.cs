@@ -1,4 +1,6 @@
 // Criando o construtor da aplicação.
+using Microsoft.AspNetCore.Mvc;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // -- Configura serviços com o constutor da aplicação (injeção de dependência). -- 
@@ -34,8 +36,9 @@ app.UseHttpsRedirection();
 // OBS: Para funcionar, você precisa configurar autenticação também.
 app.UseAuthorization();
 
-// Faz o link entre as rotas HTTP e os controllers que você criou.
+// Faz o link entre as rotas HTTP e os controllers criados.
 app.MapControllers();
 
 // Inicia o servidor web (Kestrel) e fica esperando requisições.
 app.Run();
+
