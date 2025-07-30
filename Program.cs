@@ -1,5 +1,6 @@
 // Criando o construtor da aplicação.
-using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
+using MyInvest.Context;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -13,6 +14,16 @@ builder.Services.AddEndpointsApiExplorer();
 
 // Adiciona o gerador de documentação Swagger/OpenAPI.
 builder.Services.AddSwaggerGen();
+
+// Obtendo a string de conexão do Banco de Dados.
+var connectionString =
+    builder.Configuration.GetConnectionString("DefaultConnection")
+        ?? throw new InvalidOperationException("Connection string"
+        + "'DefaultConnection' not found.");
+
+// Registro da classe de contexto, nesse caso 'ApplicationDbContext', no container de injeção de dependência.
+builder.Services.AddDbContext<ApplicationDbContext>(options =>
+    options.UseMySql(connectionString, ServerVersion.AutoDetect(connectionString)));
 
 // -------------------------------------------------------------------------------
 

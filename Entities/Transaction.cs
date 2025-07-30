@@ -4,7 +4,7 @@ public class Transaction
 {
     public int Id { get; set; }
     public DateTime Date { get; set; }
-    public string Asset { get; set; }
+    public string Asset { get; set; } = string.Empty;
     public decimal Amount { get; set; } 
     public int UnitValue { get; set; }
 
@@ -14,7 +14,7 @@ public class Transaction
     public int TransactionTypeId { get; set; }
 
     // Propriedades de navegação.
-    public User User { get; set; }
-    public TransactionCategory TransactionCategory { get; set; }
-    public TransactionType TransactionType { get; set; }
+    public User User { get; set; } = null!;
+    public TransactionCategory TransactionCategory { get; set; } = null!;
+    public TransactionType TransactionType { get; set; } = null!;
 }
