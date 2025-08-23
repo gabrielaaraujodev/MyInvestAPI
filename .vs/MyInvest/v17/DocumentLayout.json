@@ -1,14 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Gabriel Araujo (Dev)\\source\\repos\\MyInvest\\",
+  "WorkspaceRootPath": "C:\\Users\\gabri\\source\\repos\\MyInvestAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{18DA06C6-A35C-4029-A78E-832A98B961D6}|MyInvest.csproj|c:\\users\\gabriel araujo (dev)\\source\\repos\\myinvest\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18DA06C6-A35C-4029-A78E-832A98B961D6}|MyInvest.csproj|solutionrelative:context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{18DA06C6-A35C-4029-A78E-832A98B961D6}|MyInvest.csproj|c:\\users\\gabri\\source\\repos\\myinvestapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18DA06C6-A35C-4029-A78E-832A98B961D6}|MyInvest.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{18DA06C6-A35C-4029-A78E-832A98B961D6}|MyInvest.csproj|c:\\users\\gabriel araujo (dev)\\source\\repos\\myinvest\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18DA06C6-A35C-4029-A78E-832A98B961D6}|MyInvest.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{18DA06C6-A35C-4029-A78E-832A98B961D6}|MyInvest.csproj|c:\\users\\gabri\\source\\repos\\myinvestapi\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18DA06C6-A35C-4029-A78E-832A98B961D6}|MyInvest.csproj|solutionrelative:context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,15 +18,23 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Gabriel Araujo (Dev)\\source\\repos\\MyInvest\\Context\\ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\MyInvestAPI\\Context\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "Context\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\Gabriel Araujo (Dev)\\source\\repos\\MyInvest\\Context\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\gabri\\source\\repos\\MyInvestAPI\\Context\\ApplicationDbContext.cs",
               "RelativeToolTip": "Context\\ApplicationDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -35,13 +43,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Gabriel Araujo (Dev)\\source\\repos\\MyInvest\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\MyInvestAPI\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Gabriel Araujo (Dev)\\source\\repos\\MyInvest\\Program.cs",
+              "ToolTip": "C:\\Users\\gabri\\source\\repos\\MyInvestAPI\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABgAAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAUwBMAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-30T19:34:29.471Z",
               "EditorCaption": ""
