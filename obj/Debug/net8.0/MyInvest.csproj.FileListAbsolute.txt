@@ -219,7 +219,6 @@ C:\Users\gabri\source\repos\MyInvestAPI\obj\Debug\net8.0\staticwebassets.build.j
 C:\Users\gabri\source\repos\MyInvestAPI\obj\Debug\net8.0\staticwebassets.build.json.cache
 C:\Users\gabri\source\repos\MyInvestAPI\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\gabri\source\repos\MyInvestAPI\obj\Debug\net8.0\staticwebassets.build.endpoints.json
-C:\Users\gabri\source\repos\MyInvestAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\Users\gabri\source\repos\MyInvestAPI\obj\Debug\net8.0\MyInvest.csproj.Up2Date
 C:\Users\gabri\source\repos\MyInvestAPI\obj\Debug\net8.0\MyInvest.dll
 C:\Users\gabri\source\repos\MyInvestAPI\obj\Debug\net8.0\refint\MyInvest.dll
