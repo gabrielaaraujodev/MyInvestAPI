@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\gabri\\source\\repos\\MyInvestAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{18DA06C6-A35C-4029-A78E-832A98B961D6}|MyInvest.csproj|c:\\users\\gabri\\source\\repos\\myinvestapi\\migrations\\20250823154909_cria\u00E7\u00E3o do bd e tabelas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{18DA06C6-A35C-4029-A78E-832A98B961D6}|MyInvest.csproj|solutionrelative:migrations\\20250823154909_cria\u00E7\u00E3o do bd e tabelas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{18DA06C6-A35C-4029-A78E-832A98B961D6}|MyInvest.csproj|c:\\users\\gabri\\source\\repos\\myinvestapi\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{18DA06C6-A35C-4029-A78E-832A98B961D6}|MyInvest.csproj|solutionrelative:context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18DA06C6-A35C-4029-A78E-832A98B961D6}|MyInvest.csproj|c:\\users\\gabri\\source\\repos\\myinvestapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{18DA06C6-A35C-4029-A78E-832A98B961D6}|MyInvest.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "20250823154909_Cria\u00E7\u00E3o do BD e Tabelas.cs",
-              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\MyInvestAPI\\Migrations\\20250823154909_Cria\u00E7\u00E3o do BD e Tabelas.cs",
-              "RelativeDocumentMoniker": "Migrations\\20250823154909_Cria\u00E7\u00E3o do BD e Tabelas.cs",
-              "ToolTip": "C:\\Users\\gabri\\source\\repos\\MyInvestAPI\\Migrations\\20250823154909_Cria\u00E7\u00E3o do BD e Tabelas.cs",
-              "RelativeToolTip": "Migrations\\20250823154909_Cria\u00E7\u00E3o do BD e Tabelas.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAAlAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\MyInvestAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\gabri\\source\\repos\\MyInvestAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-23T15:53:11.044Z",
+              "WhenOpened": "2025-09-05T23:24:09.058Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\gabri\\source\\repos\\MyInvestAPI\\Context\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "Context\\ApplicationDbContext.cs",
               "ToolTip": "C:\\Users\\gabri\\source\\repos\\MyInvestAPI\\Context\\ApplicationDbContext.cs",
               "RelativeToolTip": "Context\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-23T15:09:01.94Z",
+              "WhenOpened": "2025-09-05T22:58:27.676Z",
               "EditorCaption": ""
             },
             {
